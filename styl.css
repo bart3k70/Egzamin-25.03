@@ -1,0 +1,63 @@
+body
+{
+    font-family: georgia;
+    color: white;
+}
+
+footer,header
+{
+    background-color: #824555;
+    text-align: center;
+    padding: 20px;
+}
+
+main
+{
+    display: flex;
+}
+
+img
+{
+    width: 50px;
+    float: left;
+}
+
+#sekcja1
+{
+    width: 30%;
+    height: 350px;
+    background-color: #a26470;
+}
+
+
+#sekcja2
+{
+    width: 30%;
+    height: 350px;
+    background-color: #824555;
+}
+
+#sekcja3
+{
+    background-color: #A26470;
+    width: 40%;
+    height: 350px;
+    overflow: auto;
+}
+
+table
+{
+    margin: 10px;
+}
+
+p
+{
+    margin: 10px;
+}
+
+td,th
+{
+    border: solid 3px #824555;
+    padding: 5px;
+
+}
